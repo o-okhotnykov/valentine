@@ -72,7 +72,7 @@ font-weight: 40px;
     display: inline-block; 
     overflow: hidden; 
     white-space: nowrap; 
-    animation: text-appear 15s forwards; /
+    animation: text-appear 10s forwards; /
   }
   
   @keyframes text-appear {
